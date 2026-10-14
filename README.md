@@ -66,91 +66,33 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🏭 IndustryBuying.com Clone</h3>
-
-      <p>
-        A clone of an industrial B2B e-commerce platform
-        offering a wide range of business and industrial products.
-      </p>
-
-      <h4>✨ Key Features</h4>
-      <ul>
-        <li>User registration and authentication</li>
-        <li>Admin page</li>
-        <li>Shopping cart functionality</li>
-        <li>Checkout and payment page UI</li>
-        <li>Product-focused landing page</li>
-      </ul>
-
-      <h4>🛠️ Tech Stack</h4>
-
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
-        <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra UI"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      </p>
-
-      <h4>💡 My Contributions</h4>
-      <ul>
-        <li>Built the website landing page.</li>
-        <li>Developed cart and checkout/payment pages.</li>
-        <li>Created registration and login pages for user authentication.</li>
-      </ul>
-
-      <p>
-        <a href="https://github.com/ankit0538">
-          <strong>Explore my GitHub →</strong>
-        </a>
-      </p>
+    <td width="50%">
+      <h3>🌐 IndustryBuying.com Clone</h3>
+      <p>IndustryBuying.com Clone is a business-to-business (B2B) e-commerce platform inspired by IndustryBuying, which offers a wide range of industrial and business products for small, medium, and large enterprises. The project focuses on providing a user-friendly shopping experience with product browsing, user authentication, cart management, and purchasing functionality.</p>
+      <p><strong>Tech:</strong> React.js, Redux, Chakra UI, Node.js, Express.js, MongoDB.</p>
+      <a href="https://github.com/ankit0538/PROJECT_ONE">View Repository →</a>
     </td>
-
-    <td width="50%" valign="top">
-      <h3>🏨 Booking.com Clone</h3>
-
-      <p>
-        A clone inspired by Booking.com, an online travel
-        platform for discovering accommodation and making reservations.
-      </p>
-
-      <h4>✨ Key Features</h4>
-      <ul>
-        <li>Social sign-in/sign-up interface</li>
-        <li>Single-page application experience</li>
-        <li>Fast and user-friendly interface</li>
-        <li>Registration and login pages</li>
-      </ul>
-
-      <h4>🛠️ Tech Stack</h4>
-
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
-        <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/JSON_Server-222222?style=flat-square" alt="JSON Server"/>
-      </p>
-
-      <h4>💡 My Contributions</h4>
-      <ul>
-        <li>Developed cart and payment page interfaces.</li>
-        <li>Created registration and login pages.</li>
-        <li>Worked on a responsive, user-friendly single-page application.</li>
-      </ul>
-
-      <p>
-        <a href="https://github.com/ankit0538">
-          <strong>Explore my GitHub →</strong>
-        </a>
-      </p>
+    <td width="50%">
+      <h3>⚡ Booking.com Clone</h3>
+      <p>Booking.com Clone is a web application inspired by Booking.com, an online travel agency specializing in accommodation reservations. The project focuses on creating a fast, user-friendly single-page application with authentication interfaces and a smooth user experience.</p>
+      <p><strong>Tech:</strong> React.js, Redux, Material UI, CSS3, JavaScript, JSON Server.</p>
+      <a href="https://github.com/ankit0538/PROJECT_TWO">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Wrike.com Clone</h3>
+      <p>Wrike is an easy-to-use tool for streamlining the internal project management and collaboration processes between team members, whether they're in the same office or separated by an ocean.</p>
+      <p><strong>Tech:</strong> JavaScript, HTML, CSS, Material UI |</p>
+      <a href="https://github.com/ankit0538/PROJECT_THREE">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h3>✨ More Projects</h3>
+      <p>Explore my repositories to see what I'm building and learning.</p>
+      <a href="https://github.com/ankit0538?tab=repositories">Explore All Repositories →</a>
     </td>
   </tr>
 </table>
----
 
 ## 📊 GitHub Statistics
 
