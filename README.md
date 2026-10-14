@@ -1,9 +1,9 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0891b2&height=200&section=header&text=YOUR_NAME&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0891b2&height=200&section=header&text=Ankit%20Rao%20Gunjal&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=18"
     width="100%"
-    alt="Profile header"
+    alt="Ankit Rao Gunjal - Full-Stack Developer"
   />
 
   <h3>Building ideas into real-world applications 🚀</h3>
@@ -14,18 +14,18 @@
   </p>
 
   <p>
-    <a href="https://github.com/YOUR_USERNAME">
-      <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <a href="https://github.com/ankit0538">
+      <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <a href="https://www.linkedin.com/in/ankit-rao-gunjal-01a874257/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:YOUR_EMAIL@example.com">
+    <a href="mailto:ankitrao0538@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ankit0538&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -33,12 +33,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **YOUR_CURRENT_PROJECT**
-- 🌱 Exploring **advanced full-stack development and system design**
-- 💻 Working with **frontend, backend, REST APIs, and databases**
-- 🎯 Focused on writing clean, maintainable, and efficient code
-- 🤝 Interested in open-source contributions and meaningful collaborations
-- ⚡ Fun fact: I enjoy turning complex problems into simple solutions
+- 👋 Hi, I'm Ankit Rao Gunjal.
+- 💻 I'm passionate about full-stack development and building web applications.
+- 🌱 Continuously learning new technologies and improving my development skills.
+- 🎯 Focused on writing clean, maintainable, and efficient code.
+- 🤝 Interested in open-source contributions and collaborative projects.
+- ⚡ I enjoy turning ideas into practical digital experiences.
 
 ---
 
@@ -70,29 +70,28 @@
   <tr>
     <td width="50%">
       <h3>🌐 Project One</h3>
-      <p>A modern web application that solves a real-world problem with a clean user experience.</p>
-      <p><strong>Tech:</strong> React · Node.js · MongoDB</p>
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">View Repository →</a>
+      <p>Describe your best web application and the problem it solves.</p>
+      <p><strong>Tech:</strong> Replace with your technologies</p>
+      <a href="https://github.com/ankit0538/PROJECT_ONE">View Repository →</a>
     </td>
     <td width="50%">
       <h3>⚡ Project Two</h3>
-      <p>A full-stack application featuring secure APIs, data management, and responsive design.</p>
-      <p><strong>Tech:</strong> Next.js · TypeScript · PostgreSQL</p>
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">View Repository →</a>
+      <p>Showcase a full-stack application, API, or another meaningful project.</p>
+      <p><strong>Tech:</strong> Replace with your technologies</p>
+      <a href="https://github.com/ankit0538/PROJECT_TWO">View Repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🤖 Project Three</h3>
-      <p>A developer tool or automation project designed to make everyday tasks easier.</p>
-      <p><strong>Tech:</strong> Python · REST API · Docker</p>
-      <a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">View Repository →</a>
+      <p>Highlight an interesting tool, automation project, or technical experiment.</p>
+      <p><strong>Tech:</strong> Replace with your technologies</p>
+      <a href="https://github.com/ankit0538/PROJECT_THREE">View Repository →</a>
     </td>
     <td width="50%">
       <h3>✨ More Projects</h3>
-      <p>Explore my repositories to see experiments, side projects, and things I'm learning.</p>
-      <p><strong>Focus:</strong> Learning · Building · Improving</p>
-      <a href="https://github.com/YOUR_USERNAME?tab=repositories">Explore All Repositories →</a>
+      <p>Explore my repositories to see what I'm building and learning.</p>
+      <a href="https://github.com/ankit0538?tab=repositories">Explore All Repositories →</a>
     </td>
   </tr>
 </table>
@@ -104,13 +103,13 @@
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=ankit0538&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github"
     height="165"
-    alt="GitHub statistics"
+    alt="Ankit's GitHub statistics"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit0538&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9"
     height="165"
     alt="Most used programming languages"
   />
@@ -120,7 +119,7 @@
 <div align="center">
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&stroke=164e63&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=94a3b8"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ankit0538&hide_border=true&background=0d1117&stroke=164e63&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=94a3b8"
     width="70%"
     alt="GitHub contribution streak"
   />
@@ -131,11 +130,11 @@
 
 ## 🎯 Current Goals
 
-- [ ] Build and deploy impactful full-stack applications
-- [ ] Improve backend architecture and database design
-- [ ] Contribute to open-source projects
-- [ ] Learn more about cloud infrastructure and DevOps
-- [ ] Collaborate with developers and share knowledge
+- [ ] Build and deploy impactful full-stack applications.
+- [ ] Improve backend architecture and database design.
+- [ ] Contribute to open-source projects.
+- [ ] Learn more about cloud infrastructure and DevOps.
+- [ ] Collaborate with developers and share knowledge.
 
 ---
 
@@ -147,10 +146,9 @@
   and collaborate on interesting projects.
 
   <p>
-    <a href="https://github.com/YOUR_USERNAME">GitHub</a> ·
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> ·
-    <a href="https://YOUR_PORTFOLIO_URL">Portfolio</a> ·
-    <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+    <a href="https://github.com/ankit0538">GitHub</a> ·
+    <a href="https://www.linkedin.com/in/ankit-rao-gunjal-01a874257/">LinkedIn</a> ·
+    <a href="mailto:ankitrao0538@gmail.com">Email</a>
   </p>
 
   <h3>⭐ Thanks for visiting my profile!</h3>
