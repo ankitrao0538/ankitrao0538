@@ -59,7 +59,7 @@
 ### Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,git,github,docker,vscode" alt="Databases and developer tools"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,vscode" alt="Databases and developer tools"/>
 </p>
 
 ---
