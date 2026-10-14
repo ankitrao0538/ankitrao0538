@@ -53,7 +53,7 @@
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" alt="Backend technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,MongoDB" alt="Backend technologies"/>
 </p>
 
 ### Database & Tools
